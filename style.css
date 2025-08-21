@@ -187,13 +187,14 @@ h2 {
     font-weight: 700;
     font-size: 16px;
     color: #fff;
+    margin-bottom: 90px;
   }
 }
 
 .professionals {
   display: flex;
   align-items: center;
-  padding-top: 101px;
+  padding-top: 120px;
   justify-content: space-between;
 
   .content {
